@@ -1,5 +1,5 @@
 Project: The Organization of Birth Care and Health Outcomes
-Author: @Maria Hofbauer Pérez
+Author: © Maria Hofbauer Pérez
 
 Main Data: DRG Statistic (Scientific Usefile): https://www.forschungsdatenzentrum.de/de/gesundheit/drg)
 
